@@ -75,7 +75,7 @@
 ### Color Match
 קישור: לחץ כאן למשחק [Color Match](https://color.method.ac/)
 צילום מסך:  <p align="center">
-  <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/Color-Matching.png" alt="Rehabilitation of the King" width="350">
+  <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/Color-Matching.png" alt="Rehabilitation of the King" width="400">
 </p>
 הבדלה: "שיקום המלך" יציע חוויה עשירה ומורכבת יותר על ידי שילוב עלילה מרתקת ומיני-משחקים קוגניטיביים ומוטוריים שמשלבים זיהוי צבעים לזיהוי סכנות ונתיבים בטוחים, מה שמבדיל אותו ממשחקים פיזיים טהורים כמו "Nintendo Switch Sports".
 
