@@ -86,7 +86,7 @@
 קישור: [לחץ כאן לצפייה בסרטון על - FitMi](https://www.youtube.com/watch?v=OBeT1Bs5Y5U)
 צילום מסך: 
 <p align="center">
-  <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/FitMi%20Rehab%20game%20screenshot.png" alt="Rehabilitation of the King" width="350">
+  <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/FitMi%20Rehab%20game%20screenshot.png" alt="Rehabilitation of the King" width="400">
 </p>
 
 
@@ -95,7 +95,7 @@
 ### Classic Memory Game
 קישור: [Classic Memory Game](https://g.co/kgs/KMhBu4s)
 <p align="center">
-  <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/Classic%20Memory%20Game%20screenshot" alt="Rehabilitation of the King" width="350">
+  <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/Classic%20Memory%20Game%20screenshot" alt="Rehabilitation of the King" width="400">
 </p>
 
 
