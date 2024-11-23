@@ -12,7 +12,7 @@
 המשחק מיועד לפלטפורמות מחשב ופלאפון נייד עם אפשרות להתקנה על מערכות Windows, ולאפליקציות ניידות ב-Android.
 
 <p align="center">
-  <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/Rehabilitation%20of%20the%20king%20picture.webp" alt="Rehabilitation of the King" width="300">
+  <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/Rehabilitation%20of%20the%20king%20picture.webp" alt="Rehabilitation of the King" width="350">
 </p>
 
 
@@ -67,13 +67,29 @@
 ---
 ## סקר שוק
 
-לפני שמתחילים לעבוד על משחק (או כל מוצר אחר), חשוב לוודא שלא עשו את זה קודם. לא נעים לעבוד סמסטר שלם (או שנה שלמה) על משחק ואז לגלות שכבר יש משחק כזה. 
+חיפשנו משחקים דומים באמצעות google play,chat GPT,google:
+לא מצאנו שום משחק דומה אך משחקונים בעלי דמיון.
 
-חפשו בגוגל, בחנות play, בפייסבוק, ובכל מקום אחר שיש לכם גישה אליו, משחקים דומים לרעיון שלכם. ציינו באיזה ביטויי-חיפוש השתמשתם.
+שלושה משחקים שדומים ל"שיקום המלך", המתמקדים במטרות טיפוליות, יחד עם קישורים וצילומי מסך:
 
-זהו את שלושת המשחקים הדומים ביותר. לגבי כל אחד מהם:
+Nintendo Switch Sports
 
-* שימו קישור וצילום-מסך להמחשה.
+קישור: לחץ כאן למשחק [Nintendo Switch Sports](https://color.method.ac/)
+צילום מסך:
+הבדלה: "שיקום המלך" יציע חוויה עשירה ומורכבת יותר על ידי שילוב עלילה מרתקת ומיני-משחקים קוגניטיביים ומוטוריים שמשלבים זיהוי צבעים לזיהוי סכנות ונתיבים בטוחים, מה שמבדיל אותו ממשחקים פיזיים טהורים כמו "Nintendo Switch Sports".
+
+
+קישור: FitMi Stroke Rehab Video Game
+<p align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/OBeT1Bs5Y5U?si=wlfDSqzMQjG1MRdf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
+הבדלה: FitMi מיועד לשיקום כלל גופי באמצעות תרגילים חוזרים. לעומת זאת, המשחק שלנו מדגיש ריפוי קוגניטיבי ומיומנויות מוטוריות דקות בסביבה פנטזית, מה שהופך אותו לייחודי בגישתו לשילוב בין אתגרים פיזיים ומחשבתיים תוך שילוב עלילה.
+MusicGlove
+
+קישור: MusicGlove Hand Therapy
+צילום מסך:
+הבדלה: MusicGlove מתמקד בשיקום היד באופן ספציפי. "שיקום המלך" יכול להרחיב על כך על ידי הצעת מגוון פעילויות שיקומיות שטופלות חלקים שונים של השיקום, כגון תודעת מרחב, זיכרון וחשיבה ביקורתית, ולהוסיף עומק ומגוון לתהליך הריפוי.
 * הסבירו מה תעשו כדי שהמשחק שלכם יהיה שונה/מקורי/מיוחד/טוב יותר מהמתחרים?  מדוע שחקנים יעדיפו דווקא את המשחק שלכם?
 
 ### הבדלה וייחודיות של "שיקום המלך"
