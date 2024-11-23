@@ -83,12 +83,12 @@
 ### FitMi
 הבדלה: FitMi מיועד לשיקום כללי באמצעות תרגילים שמשלבים הפעלת כלל הגוף באופן פרטני לפי שרירים רצויים וחזרה על סרטונים שמופעלים במסך עבור המטופל.
  לעומת זאת, המשחק שלנו מדגיש ריפוי קוגניטיבי ומיומנויות מוטוריות דקות בסביבה פנטזית, מה שהופך אותו לייחודי בגישתו בשילוב אתגרים פיזיים ומחשבתיים תוך שילוב עלילת המשחק ריגוש וכיף.
-קישור: [לחץ כאן לצפייה ב-FitMi](https://www.youtube.com/watch?v=OBeT1Bs5Y5U)
+קישור: [לחץ כאן לצפייה בסרטון על - FitMi](https://www.youtube.com/watch?v=OBeT1Bs5Y5U)
 צילום מסך: 
 <p align="center">
-  <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/FitMi%20Rehab%20game%20screenshot.png
-" alt="Rehabilitation of the King" width="350">
+  <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/FitMi%20Rehab%20game%20screenshot.png" alt="Rehabilitation of the King" width="350">
 </p>
+
 
 
 
