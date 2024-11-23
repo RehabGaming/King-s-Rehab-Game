@@ -54,7 +54,7 @@
 עולם המשחק: עולם המשחק יהיה סגור ומוגבל לטירה וסביבותיה.
 הצגת גבולות: הגבולות יוצגו באופן ויזואלי ובאמצעות חסמים במפה כמו קירות ודלתות נעולות, כאשר שחקן יבצע מעבר מחדר לחדר הוא יפנה לפתח המעבר לשלב הבא.
 <p align="center">
-  <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/second%20picture%20for%20md.webp" alt="Rehabilitation of the King" width="300">
+  <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/second%20picture%20for%20md.webp" alt="Rehabilitation of the King" width="350">
 </p>
 
 
