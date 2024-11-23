@@ -11,7 +11,10 @@
 השחקנים יעברו בין חדרי הטירה, ובכל חדר יוצגו בפניהם משימות שונות בצורת מיני-משחקים שמטרתם לשקם כישורים פיזיים וקוגניטיביים של המלך.
 המשחק מיועד לפלטפורמות מחשב ופלאפון נייד עם אפשרות להתקנה על מערכות Windows, ולאפליקציות ניידות ב-Android.
 
-<img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/Rehabilitation%20of%20the%20king%20picture.webp" alt="Rehabilitation of the King" width="300">
+<p align="center">
+  <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/Rehabilitation%20of%20the%20king%20picture.webp" alt="Rehabilitation of the King" width="300">
+</p>
+
 
 
 ---
