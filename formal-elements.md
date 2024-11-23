@@ -73,12 +73,15 @@
 חיפשנו משחקים דומים באמצעות google play,chat GPT,google:
 לא מצאנו שום משחק שהינו אחד לאחד למשחק שלנו, אך משחקונים קטנים שהם עצמם בעלי דמיון.
 
-Color Match
+### Color Match
 קישור: לחץ כאן למשחק [Color Match](https://color.method.ac/)
-צילום מסך:
+צילום מסך:  <p align="center">
+  <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/Color-Matching.png" alt="Rehabilitation of the King" width="350">
+</p>
 הבדלה: "שיקום המלך" יציע חוויה עשירה ומורכבת יותר על ידי שילוב עלילה מרתקת ומיני-משחקים קוגניטיביים ומוטוריים שמשלבים זיהוי צבעים לזיהוי סכנות ונתיבים בטוחים, מה שמבדיל אותו ממשחקים פיזיים טהורים כמו "Nintendo Switch Sports".
 
 קישור: [![לצפייה במשחק לחץ כאן](https://img.youtube.com/vi/OBeT1Bs5Y5U/maxresdefault.jpg)](https://www.youtube.com/watch?v=OBeT1Bs5Y5U)
+
 
 הבדלה: FitMi מיועד לשיקום כלל גופי באמצעות תרגילים חוזרים. לעומת זאת, המשחק שלנו מדגיש ריפוי קוגניטיבי ומיומנויות מוטוריות דקות בסביבה פנטזית, מה שהופך אותו לייחודי בגישתו לשילוב בין אתגרים פיזיים ומחשבתיים תוך שילוב עלילה.
 MusicGlove
