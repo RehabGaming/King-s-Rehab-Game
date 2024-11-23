@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 36px;">שיקום המלך</h1>
+  <h1 style="font-size: 48px;">שיקום המלך</h1>
 </div>
 
 
