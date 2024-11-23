@@ -72,24 +72,23 @@
 חיפשנו משחקים דומים באמצעות Google Play, ChatGPT, ו-Google: לא מצאנו שום משחק שהוא אחד לאחד כמו משחק שלנו,
  אך מצאנו משחקונים קטנים בעלי דמיון.
 
-#### Color Match
+### Color Match
 קישור: לחץ כאן למשחק [Color Match](https://color.method.ac/)
 צילום מסך:  <p align="center">
   <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/Color-Matching.png" alt="Rehabilitation of the King" width="350">
 </p>
 הבדלה: "שיקום המלך" יציע חוויה עשירה ומורכבת יותר על ידי שילוב עלילה מרתקת ומיני-משחקים קוגניטיביים ומוטוריים שמשלבים זיהוי צבעים לזיהוי סכנות ונתיבים בטוחים, מה שמבדיל אותו ממשחקים פיזיים טהורים כמו "Nintendo Switch Sports".
 
-#### FitMi
-
-קישור: ![לצפייה במשחק לחץ כאן](https://img.youtube.com/vi/OBeT1Bs5Y5U/maxresdefault.jpg)(https://www.youtube.com/watch?v=OBeT1Bs5Y5U)
-
-
+### FitMi
 הבדלה: FitMi מיועד לשיקום כללי באמצעות תרגילים שמשלבים הפעלת כלל הגוף באופן פרטני לפי שרירים רצויים וחזרה על סרטונים שמופעלים במסך עבור המטופל.
  לעומת זאת, המשחק שלנו מדגיש ריפוי קוגניטיבי ומיומנויות מוטוריות דקות בסביבה פנטזית, מה שהופך אותו לייחודי בגישתו בשילוב אתגרים פיזיים ומחשבתיים תוך שילוב עלילת המשחק ריגוש וכיף.
+קישור: [לחץ כאן לצפייה ב-FitMi](https://www.youtube.com/watch?v=OBeT1Bs5Y5U)
 
+
+### Classic Memory Game
 קישור: [Classic Memory Game](https://g.co/kgs/KMhBu4s)
 <p align="center">
-  <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/second%20picture%20for%20md.webp" alt="Rehabilitation of the King" width="350">
+  <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/Classic%20Memory%20Game%20screenshot" alt="Rehabilitation of the King" width="350">
 </p>
 
 
