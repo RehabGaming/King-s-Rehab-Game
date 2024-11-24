@@ -70,8 +70,9 @@
 
 ### Color Match
 משחק "Color Match" הוא משחק שבו המטרה היא להתאים צבעים זה לזה על פי כללים מסוימים.
-קישור: לחץ כאן למשחק [Color Match](https://color.method.ac/)
-צילום מסך:  <p align="center">
+
+קישור למשחק [Color Match](https://color.method.ac/)
+  <p align="center">
   <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/Color-Matching.png" alt="Rehabilitation of the King" width="400">
 </p>
 הבדלה: "שיקום המלך" יציע חוויה עשירה ומורכבת יותר על ידי שילוב עלילה מרתקת ומיני-משחקים קוגניטיביים ומוטוריים שמשלבים זיהוי צבעים לזיהוי סכנות ונתיבים בטוחים.
