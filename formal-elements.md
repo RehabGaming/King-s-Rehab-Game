@@ -94,7 +94,7 @@
 ### Classic Memory Game
 במשחק זה, השחקנים נדרשים לזכור את הצלילים שמשמיעות הדמויות השונות וללחוץ עליהן בהתאם לסדר שבו הושמעו הצלילים. 
 כל פעם שהשחקן מצליח לשחזר בהצלחה את הסדר, המשחק מוסיף צליל נוסף, מה שהופך את המשחק לקשה ומאתגר יותר עם כל רמה.
-קישור: [Classic Memory Game](https://g.co/kgs/KMhBu4s)
+קישור למשחק: [Classic Memory Game](https://g.co/kgs/KMhBu4s)
 <p align="center">
   <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/Classic%20Memory%20Game%20screenshot" alt="Rehabilitation of the King" width="400">
 </p>
