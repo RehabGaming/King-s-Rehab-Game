@@ -1,17 +1,5 @@
-<div align="center">
-  <h1 class="title">
-    שיקום המלך
-  </h1>
-</div>
+<h1 align="center">שיקום המלך</h1>
 
-<style>
-  .title {
-    font-size: 60px;
-    font-weight: bold;
-    color: royalblue;
-    text-shadow: 2px 2px 5px gray;
-  }
-</style>
 
 
 
