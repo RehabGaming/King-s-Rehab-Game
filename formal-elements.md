@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 60px; font-weight: bold; color: royalblue; text-shadow: 2px 2px 5px gray;">
+  <h1 style="font-size: 100px; font-weight: bold; color: royalblue; text-shadow: 2px 2px 5px gray;">
     שיקום המלך
   </h1>
 </div>
