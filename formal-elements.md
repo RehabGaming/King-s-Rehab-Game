@@ -1,8 +1,17 @@
 <div align="center">
-  <h1 style="font-size: 100px; font-weight: bold; color: royalblue; text-shadow: 2px 2px 5px gray;">
+  <h1 class="title">
     שיקום המלך
   </h1>
 </div>
+
+<style>
+  .title {
+    font-size: 60px;
+    font-weight: bold;
+    color: royalblue;
+    text-shadow: 2px 2px 5px gray;
+  }
+</style>
 
 
 
