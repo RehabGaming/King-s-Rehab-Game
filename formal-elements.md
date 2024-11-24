@@ -72,6 +72,8 @@
 משחק "Color Match" הוא משחק שבו המטרה היא להתאים צבעים זה לזה על פי כללים מסוימים.
 
 קישור למשחק [Color Match](https://color.method.ac/)
+
+צילום מסך מהמשחק: 
   <p align="center">
   <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/Color-Matching.png" alt="Rehabilitation of the King" width="400">
 </p>
@@ -84,7 +86,8 @@
  לעומת זאת, המשחק שלנו מדגיש ריפוי קוגניטיבי ומיומנויות מוטוריות דקות בסביבה פנטזית, מה שהופך אותו לייחודי בגישתו בשילוב אתגרים פיזיים ומחשבתיים תוך שילוב עלילת המשחק ריגוש וכיף.
 
 קישור: [לחץ כאן לצפייה בסרטון על - FitMi](https://www.youtube.com/watch?v=OBeT1Bs5Y5U)
-צילום מסך: 
+
+צילום מסך מהמשחק: 
 <p align="center">
   <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/FitMi%20Rehab%20game%20screenshot.png" alt="Rehabilitation of the King" width="400">
 </p>
@@ -97,6 +100,8 @@
 כל פעם שהשחקן מצליח לשחזר בהצלחה את הסדר, המשחק מוסיף צליל נוסף, מה שהופך את המשחק לקשה ומאתגר יותר עם כל רמה.
 
 קישור למשחק: [Classic Memory Game](https://g.co/kgs/KMhBu4s)
+
+צילום מסך מהמשחק: 
 <p align="center">
   <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/Classic%20Memory%20Game%20screenshot" alt="Rehabilitation of the King" width="400">
 </p>
