@@ -142,13 +142,15 @@
 
 ### מבוך אונליין
 משחק שבו על השחקן למצוא את הדרך החוצה ממבוך באמצעות ניווט עם החצים.
+<div style="text-align: right;">
+  - **קישור למשחק**: [מבוך אונליין](https://games.yo-yoo.co.il/games_play.php?game=8106)
 
-- **קישור למשחק**: [מבוך אונליין](https://games.yo-yoo.co.il/games_play.php?game=8106)
+  - **צילום מסך מהמשחק**:
+    <p>
+      <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/maze-image%20online%20game.png" alt="מבוך אונליין" width="400">
+    </p>
+</div>
 
-- **צילום מסך מהמשחק**:
-  <p align="center">
-    <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/maze-image%20online%20game.png" alt="מבוך אונליין" width="400">
-  </p>
 
 **הבדלה**: ב"שיקום המלך", משימת המבוך תשלב אלמנטים של תכנון והתמצאות במרחב, עם עלילה המשלבת אתגרי שיקום קוגניטיביים, מה שמוסיף עומק וחוויה ייחודית.
 
