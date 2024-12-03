@@ -144,9 +144,11 @@
 משחק שבו על השחקן למצוא את הדרך החוצה ממבוך באמצעות ניווט עם החצים.
 - **קישור למשחק**: [מבוך אונליין](https://games.yo-yoo.co.il/games_play.php?game=8106)
 - **צילום מסך מהמשחק**:
- <div style="text-align: center;">
+
+  <div style="text-align: center;">
     <img src="https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/maze-image%20online%20game.png" alt="מבוך אונליין" width="400">
   </div>
+
 
 
 
