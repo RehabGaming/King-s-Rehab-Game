@@ -16,6 +16,8 @@
 ### רכיבים רשמיים
 [לצפייה ברכיבים הרשמיים של המשחק](https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/formal-elements.md)
 
+[לצפייה בתרשים זרימה למשחק](https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/FlowChart%20-%20picture.png)
+
 ## מדריך שימוש
 
 
