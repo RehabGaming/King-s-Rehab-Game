@@ -18,6 +18,9 @@
 
 [לצפייה בתרשים זרימה למשחק](https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/FlowChart%20-%20picture.png)
 
+[למשחק אונליין!](https://rehabgaming1.itch.io/the-rise-of-the-kinghttps://rehabgaming1.itch.io/the-rise-of-the-king)
+
+
 ## מדריך שימוש
 
 
