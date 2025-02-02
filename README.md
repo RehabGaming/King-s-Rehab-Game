@@ -9,7 +9,7 @@
 
 
 ### פלטפורמות
-המשחק מיועד לפלטפורמת המחשב עם אפשרות להתקנה על מערכות Windows.
+המשחק מיועד לפלטפורמת המחשב והפלאפון וניתן לשחק אונליין.
 ## חברי הצוות
 - אליעוז קולני
 - אופק מרום
@@ -24,8 +24,6 @@
 [לצפייה בתרשים זרימה למשחק](https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/FlowChart%20-%20picture.png)
 
 [למשחק אונליין!](https://rehabgaming1.itch.io/the-rise-of-the-king)
-
-[למשחק אונליין!(גרסה מותאמת נייד)](https://kolanieliozgmailcom.itch.io/rise-of-the-king)
 
 [לסרטון פתיחה!](https://youtu.be/GXY35nAcTUQ)
 
