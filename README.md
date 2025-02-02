@@ -16,7 +16,7 @@
 - דניאל כהן-שדה
 - אגם חמו
 - אפרת הבר
-- ניקול
+-  ניקול צימברג
 
 ### רכיבים רשמיים
 [לצפייה ברכיבים הרשמיים של המשחק](https://github.com/RehabGaming/King-s-Rehab-Game/blob/main/formal-elements.md)
