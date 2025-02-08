@@ -25,7 +25,7 @@
 
 [למשחק אונליין!](https://rehabgaming1.itch.io/the-rise-of-the-king)
 
-[לסרטון פתיחה!](https://youtu.be/GXY35nAcTUQ)
+[לסרטון פתיחה!](https://youtu.be/aac7XZOjdpg?si=nrQjcvLTnze9dD10)
 
 
 
